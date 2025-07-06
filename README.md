@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Kiran Bhatt</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0y8dO3TY_jwJGM18xgyXKA&ust=1751897313865000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC0gKS0qI4DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran9625&label=Profile%20views&color=0e75b6&style=flat" alt="kiran9625" /> </p>
 
