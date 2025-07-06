@@ -1,3 +1,4 @@
+![logo](https://github.com/Kiran9625/Kiran9625/blob/main/Copy%20of%20Purple%20White%20Modern%20Gaming%20Channel%20Twitch%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kiran Bhatt</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
